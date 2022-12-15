@@ -2,7 +2,7 @@
 a word-cloud generator with R
 full description here: https://corpling.hypotheses.org/3941
 
-Load the script as follows: `runApp("path/to/file/wordcloudapp.R")`
+Load the script as follows: `runApp("path/to/file/rwordcloud.r")`
 
 The Shiny app opens in your default web browser. At first, you see an error message (‘Error: ‘con’ is not a connection’). This is because you have not loaded a text yet.
 
