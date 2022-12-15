@@ -1,6 +1,7 @@
 # Rwordcloud
-a word-cloud generator with R
-full description here: https://corpling.hypotheses.org/3941
+A word-cloud generator with R.
+
+Full description here: https://corpling.hypotheses.org/3941
 
 Load the script as follows: `runApp("path/to/file/rwordcloud.r")`
 
